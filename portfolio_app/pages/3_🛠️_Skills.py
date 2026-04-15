@@ -47,7 +47,7 @@ def display_skill(name, value):
         st.progress(value)
 
 # Display skills
-display_skill("Java / XML", 80)
+display_skill("PHP/ XAMMP", 80)
 display_skill("Python", 90)
 display_skill("HTML / CSS / JAVASCRIPT", 85)
 
