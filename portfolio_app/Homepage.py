@@ -2,7 +2,6 @@ import streamlit as st
 
 st.set_page_config(page_title="My Portfolio", page_icon="💻")
 
-# --- COPY THIS CSS TO KEEP THE BACKGROUND CONSISTENT ---
 st.markdown("""
     <style>
         /* Main background */
