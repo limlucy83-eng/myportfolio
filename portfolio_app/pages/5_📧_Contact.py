@@ -143,7 +143,7 @@ with col2:
     st.write("You can also find me here:")
 
     st.link_button("🌐 GitHub", "https://github.com/RICAY458")
-    st.link_button("📱 Facebook", "https://www.facebook.com/carimae.sinogbujan")
+    st.link_button("📱 Facebook", "https://www.facebook.com/cy.dumagan/")
 
     st.markdown("---")
     st.info("📍 **Location:** Masbate, Philippines")
